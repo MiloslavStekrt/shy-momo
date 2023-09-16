@@ -3,7 +3,7 @@ package dev.levia.shymomo.services
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.miloslavstekrt.shymomo.MyBundle
+import dev.levia.shymomo.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

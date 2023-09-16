@@ -1,4 +1,4 @@
-package dev.levia.shymomo.listeners
+package dev.levia.shymomo
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

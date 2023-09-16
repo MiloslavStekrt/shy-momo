@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.miloslavstekrt.shymomo.MyBundle
-import com.github.miloslavstekrt.shymomo.services.MyProjectService
+import dev.levia.shymomo.MyBundle
+import dev.levia.shymomo.services.MyProjectService
 import javax.swing.JButton
 
 
